@@ -1,3 +1,7 @@
+(PLEASE OPEN THE CACHEMATRIX.R FOR THE ASSIGNMENT ANSWER, THANKS!!)
+
+==========================================================
+
 ### Introduction
 
 This second programming assignment will require you to write an R
